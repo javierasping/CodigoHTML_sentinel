@@ -45,6 +45,15 @@ Preparación Antes de empezar con la instalación de WordPress vamos a dejar cla
 Requisitos previos Servidor con Linux: Debes disponer de un servidor que ejecute Linux , la guía esta pensada para Debian 12 .</description>
     </item>
     
+    <item>
+      <title>Prueba Introducción a la implantación de aplicaciones web </title>
+      <link>http://www.javiercd.es/posts/iaw/exament2/exament2/</link>
+      <pubDate>Sat, 28 Oct 2023 10:00:00 +0000</pubDate>
+      
+      <guid>http://www.javiercd.es/posts/iaw/exament2/exament2/</guid>
+      <description>Pagina estática para el examen de IWEB 16 nov</description>
+    </item>
+    
     
   </channel>
 </rss>
